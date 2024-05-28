@@ -21,3 +21,10 @@ const menu = document.querySelectorAll('nav ul li a');
 console.log(title);
 console.log(subtitle);
 console.log(menu);
+
+
+//Elementos = 1
+//Clases, atributos, pseudoclases = 10
+//ID = 100
+// Estilos en línea = 1000
+// !important = gana a todos
