@@ -30,7 +30,7 @@ Métodos para navegar entre los elementos del DOM
 - `nextElementSibling:` Accede al siguiente hermano del elemento actual
 - `children:` Devuelve una colección de los elementos secundarios de un elemento dado
 
-# Create element: 
+## Create element: 
 Métodos para crear y agregar nuevos elementos al DOM
 
 - `createElement:`  Crea un nuevo elemento HTML especificado por su etiqueta.
